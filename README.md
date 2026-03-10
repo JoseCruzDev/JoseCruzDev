@@ -23,9 +23,6 @@ Atualmente focado em **HTML5 e CSS3**, em constante aprendizado de **JavaScript*
 ---
 
 ## 📊 Estatísticas
-<br>
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=JoseCruzDev)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
