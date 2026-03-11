@@ -21,9 +21,9 @@ Atualmente focado em **HTML5 e CSS3**, em constante aprendizado de **JavaScript*
 - **Quem é Jesus?**
 
 ---
-
+<!--
 ## 📊 Estatísticas
-
+-->
 ---
 
 ## 📫 Contato
